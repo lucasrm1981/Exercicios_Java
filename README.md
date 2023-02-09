@@ -289,3 +289,6 @@ Quadrantes
 * 6 - Exibir a quantidade de números ímpares existem nas posições pares do vetor
 * 7 - Sair
 * Deverá ser implementado um método para realizar cada uma das opções de 1 a 6.
+65) Utilizando a classe "Scanner", do pacote "java.util", solicite o peso e a altura da pessoa.
+ * Em seguida calcule seu Indice de Massa Corporal e exiba a classificação apropriada.
+ * Criando duas funções uma para o IMC e uma para as decisões
