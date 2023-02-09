@@ -1,5 +1,5 @@
 # Exercicios_Java
-Lista com 64 Exercícios feitas em JAVA resolvidos
+Lista com Exercícios feitas em JAVA resolvidos
 
 1) Faça um programa para calcular o estoque médio de uma peça, sendo que:
  *  ESTOQUE MÉDIO = (QUANTIDADE_MÍNIMA + QUANTIDADE_MÁXIMA) / 2.
