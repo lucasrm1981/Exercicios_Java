@@ -297,3 +297,6 @@ Quadrantes
  * O título da página deve ser "Seu Titulo", e seu corpo deve conter um H1 com Titulo Qualquer e
  * com o texto H2 "Linguagem de Programacao".
  
+
+67) Crie um programa que converta a temperatura em celsius para kelvin inserida pelo usuário
+* Exiba seu resulta convertido
