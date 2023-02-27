@@ -56,7 +56,7 @@ Lista com Exercícios feitas em JAVA resolvidos
 *   x se x é maior ou igual a zero
 *   x * (-1) se x é menor que zero
 13) Escreva um programa que leia 3 números inteiros e imprima na tela os
-* valores em ordem decrescente.
+* valores em ordem crescente.
 14) Escreva um programa que leia dois números e apresente a diferença do
 * maior para o menor.
 15) Escreva um programa que leia quatro notas escolares de um aluno e
