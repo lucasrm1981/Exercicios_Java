@@ -1,6 +1,6 @@
 /*******************************************************************************
 * 13) Escreva um programa que leia 3 números inteiros e imprima na tela os
-* valores em ordem decrescente.
+* valores em ordem crescente.
 *******************************************************************************/
 
 import java.util.Scanner;
