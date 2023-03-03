@@ -302,4 +302,4 @@ Quadrantes
 * Exiba seu resulta convertido
 
 68) Calcule o fatorial de um número inteiro.
-* Entrda feita pelo usuário.
+* Entrada feita pelo usuário.
