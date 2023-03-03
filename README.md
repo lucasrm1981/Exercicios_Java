@@ -54,7 +54,7 @@ Lista com Exercícios feitas em JAVA resolvidos
 12) Escreva um programa que leia um número inteiro e exiba o seu módulo.
 *   O módulo de um número x é:
 *   x se x é maior ou igual a zero
-*   x * (-1) se x é menor que zero
+*   se x é menor que zero então x * (-1) 
 13) Escreva um programa que leia 3 números inteiros e imprima na tela os
 * valores em ordem crescente.
 14) Escreva um programa que leia dois números e apresente a diferença do
@@ -300,3 +300,6 @@ Quadrantes
 
 67) Crie um programa que converta a temperatura em celsius para kelvin inserida pelo usuário
 * Exiba seu resulta convertido
+
+68) Calcule o fatorial de um número inteiro.
+* Entrda feita pelo usuário.
