@@ -13,7 +13,7 @@ public class Exercicio {
 		int NumeroComponentes;
 
 		System.out.print("Digite o número de posições: ");
-		NumeroCOmponentes = entrada.nextInt();
+		NumeroComponentes = entrada.nextInt();
 		System.out.println();
 
 		int[]v1= new int[NumeroComponentes];
