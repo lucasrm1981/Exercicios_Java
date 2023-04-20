@@ -13,7 +13,6 @@
 * contrário deverá encerrar o programa.
 *******************************************************************************/
 import java.util.Scanner;
-import java.util.Arrays; //Importando ferramentas para array
 
 public class Exercicio {
 	private static double primeiro, segundo;
@@ -52,7 +51,7 @@ public class Exercicio {
 			}
 			System.out.println("Deseja continuar?(s/n)");
 			charOpcao = entrada.next();
-			if(charOpcao=="N"||charOpcao=="n"){
+			if( charOpcao.equals("N") ||charOpcao.equals("n") ){
 				encerrar = true;
 			}
 		}
