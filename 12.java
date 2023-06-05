@@ -13,7 +13,7 @@ public class Exercicio {
         Scanner entrada = new Scanner(System.in);
         int Numero,ModuloNumero;
 
-      	System.out.print("Módulo de Número\n\n"); //Finalmente...
+      	System.out.print("Módulo de Número\n\n");
 
 
       	System.out.print("Digite um número inteiro:  ");
