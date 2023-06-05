@@ -13,7 +13,7 @@ public class Exercicio {
 	int PrimeiroNumero, SegundoNumero;
 	boolean Igual=false, NaoIgual=false, Maior=false, Menor=false, MaiorOuIgual=false, MenorOuIgual=false;	
 
-	System.out.print("Mostrador de relacionamentos\n\n"); //Mais um exercício away
+	System.out.print("Mostrador de relacionamentos\n\n");
 
 
 	System.out.print("Digite o primeiro número:  ");
