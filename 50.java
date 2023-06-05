@@ -5,7 +5,7 @@
 * menor que a tentativa feita. Ao acertar o número, o programa deve imprimir a
 * quantidade de tentativas feitas.
 *******************************************************************************/
-// EXTRA: Adicionei o número de tentativas, tornando um pouco mais útil.
+
 import java.util.Scanner;
 import java.util.Random;
 
