@@ -6,15 +6,8 @@
 
 import java.util.Scanner;
 
-/**
- *
- * @author lucas.monteiro
- */
 public class Imc {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner scan = new Scanner(System.in);
