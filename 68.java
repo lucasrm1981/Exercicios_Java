@@ -2,15 +2,8 @@ package fatorial;
 
 import java.util.Scanner;
 
-/**
- *
- * @author lucas.monteiro
- */
 public class Fatorial {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
       /* Preparação para entrada dos dados com o usuário */
         Scanner input = new Scanner(System.in);
@@ -22,7 +15,7 @@ public class Fatorial {
       for(int i=numero; i>0;i--){
             fatorial = fatorial*i; 
         } 
-      /* IMpressão do fatorial*/
+      /* Impressão do fatorial*/
       System.out.print("O Fatorial de "+numero+" e: "+fatorial+"\n");
     }
     
