@@ -7,10 +7,6 @@ package aluno;
 
 import java.util.Scanner;
 
-/**
- *
- * @author lucas.monteiro
- */
 public class Aluno {
 
     //Variáveis do construtor
@@ -23,9 +19,7 @@ public class Aluno {
         nota_ = nota;
     }
 
-    /**
-     * @param args the command line arguments
-     */
+  
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int QuantidadeAlunos;
