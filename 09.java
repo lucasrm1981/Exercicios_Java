@@ -10,7 +10,7 @@ public class Exercicio {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-	int IdadeAnos /* not anus! */, IdadeMeses, IdadeDias, IdadeTotalDias;
+	int IdadeAnos, IdadeMeses, IdadeDias, IdadeTotalDias;
 	
 	System.out.print("Calculadora de idade em dias\n\n"); //Existe algum exercício mais aleatório do que esse?!
 
