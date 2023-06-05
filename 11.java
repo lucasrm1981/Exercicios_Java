@@ -13,7 +13,7 @@ public class Exercicio {
         Scanner entrada = new Scanner(System.in);
         int A,B,VariavelTemporaria;
 
-      	System.out.print("Efetuador de troca de valores entre variaveis\n\n"); //Isso é estrutura condicional, mesmo?
+      	System.out.print("Efetuador de troca de valores entre variaveis\n\n"); 
 
 
       	System.out.print("Digite a variável A:  ");
