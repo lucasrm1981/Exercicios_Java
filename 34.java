@@ -4,7 +4,7 @@
 * conhecido, e que um número negativo será utilizado para sinalizar o fim dos
 * dados.
 *******************************************************************************/
-//Obs: Nesse exercício seria um ótimo lugar para se colocar listas ligadas
+
 import java.util.Scanner;
 
 public class Exercicio {
