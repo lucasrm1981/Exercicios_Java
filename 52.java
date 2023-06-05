@@ -12,7 +12,7 @@ public class Exercicio {
 
 		int NumeroPosicoes = 100,x = 0; //máximo 100 posições
 		int[] numero = new int[NumeroPosicoes];
-		int contar1=0,contar3=0,contar4=0; //existe um outro jeito, mas vou manter as coisas simples por enqunato
+		int contar1=0,contar3=0,contar4=0; 
 		do{
 			System.out.print("Digite o próximo número (Digite -1 para sair): ");
 			numero[x] = entrada.nextInt();
